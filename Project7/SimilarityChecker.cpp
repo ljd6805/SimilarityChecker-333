@@ -6,7 +6,7 @@ using namespace std;
 class similarityChecker
 {
 public:
-	int checkLength(const string& strA, const std::string& strB)
+	int checkLength(const string& strA, const string& strB)
 	{
 		int long_length, short_length;
 
